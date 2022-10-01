@@ -29,4 +29,4 @@ Our platform is the product of the successful fusion of these technologies, effe
 
 - Challenge between White Hats in relation to a bug bounty (thanks to the encrypted and safe Privy database that contains the lists of all the White Hats addresses)
 
-DEVPOST(https://devpost.com/software/safe-alert-plg1so) - ETHCC Winner : Polygon: Best NFT Project (IRL)
+[DEVPOST](https://devpost.com/software/safe-alert-plg1so) - ETHCC Winner : Polygon: Best NFT Project (IRL)
