@@ -1,5 +1,4 @@
 # safeAlert
-# safeAlert
 README
 
 **OUR SOLUTION**
@@ -29,3 +28,5 @@ Our platform is the product of the successful fusion of these technologies, effe
 - Development of new features on hiring platforms and social networks to showcase Sismo reputation badges of White Hats/developers thanks to a plug-in integration on different careers websites of web 3.0 companies. That allows the White Hats to apply with their Metamask account in order to enable the companies to view the different proof of hat certification.
 
 - Challenge between White Hats in relation to a bug bounty (thanks to the encrypted and safe Privy database that contains the lists of all the White Hats addresses)
+
+DEVPOST(https://devpost.com/software/safe-alert-plg1so) - ETHCC Winner : Polygon: Best NFT Project (IRL)
